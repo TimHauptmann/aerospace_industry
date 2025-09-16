@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="plane.png" type="image/png">
+  <title>Aerospace Industry Top 100</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script defer src="script.js"></script>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <img src="plane.png" alt="Site Logo" class="logo">
+      <span class="site-title">AEROSPACE INDUSTRY TOP 100</span>
+    </div>
+    <!-- <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul> -->
+  </nav>
+
+  <!-- Intro -->
+  <header id="home">
+    <h1>TOP 100 AEROSPACE COMPANIES BY REVENUE 2023</h1>
+    <p>The following table illustrates the data presented by the FlightGlobal, the global aviation community's primary source of news, data, insight, knowledge and expertise.</p>
+    <p>An interactive website presenting the top 100 aerospace companies worldwide by revenue (2023). The site features dynamic visualizations including total revenue, revenue by country, top five countries by revenue, number of companies per country, and revenue share per country. Data is sourced from open datasets and structured CSV files.</p>
+    <p>Users can explore trends and comparisons via tables, charts, and dashboards built with Python, Pandas, and frontend visualization tools. The project demonstrates data cleaning, aggregation, and visualization skills suitable for data analytics and data science roles.</p>
+  </header>
+
+  <div class="content">
+  <!-- Dynamic Tables (also from JSON) -->
+    <section id="tables">
+      <h2>Data Table</h2>
+      <table id="data-table">
+        <!-- script.js will build rows here -->
+      </table>
+    </section>
+
+      <!-- Dynamic Articles (loaded from JSON/Markdown) -->
+    <section id="articles">
+      <h2>Articles</h2>
+      <div id="articles-container">
+        <!-- script.js will insert fetched content here -->
+      </div>
+    </section>
+</div>
+
+  <!-- Footer / Contact -->
+  <footer id="contact">
+    <p>Contact: aman.chukin@outlook.com</p>
+    <p>&copy; 2025 Aerospace Industry Top 100</p>
+  </footer>
+
+</body>
+</html>

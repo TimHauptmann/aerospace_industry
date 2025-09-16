@@ -1,0 +1,702 @@
+[
+  {
+    "Number": "1",
+    "Company": "Boeing",
+    "Country": "USA",
+    "Revenue_nominal": "77,794,000,000",
+    "Revenue_abbrev": "77.8 billion"
+  },
+  {
+    "Number": "2",
+    "Company": "Airbus",
+    "Country": "France/Netherlands",
+    "Revenue_nominal": "70,829,000,000",
+    "Revenue_abbrev": "70.8 billion"
+  },
+  {
+    "Number": "3",
+    "Company": "RTX",
+    "Country": "USA",
+    "Revenue_nominal": "68,920,000,000",
+    "Revenue_abbrev": "68.9 billion"
+  },
+  {
+    "Number": "4",
+    "Company": "Lockheed Martin",
+    "Country": "USA",
+    "Revenue_nominal": "67,571,000,000",
+    "Revenue_abbrev": "67.6 billion"
+  },
+  {
+    "Number": "5",
+    "Company": "Northrop Grumman",
+    "Country": "USA",
+    "Revenue_nominal": "39,290,000,000",
+    "Revenue_abbrev": "39.3 billion"
+  },
+  {
+    "Number": "6",
+    "Company": "GE Aerospace",
+    "Country": "USA",
+    "Revenue_nominal": "31,770,000,000",
+    "Revenue_abbrev": "31.8 billion"
+  },
+  {
+    "Number": "7",
+    "Company": "Safran",
+    "Country": "France",
+    "Revenue_nominal": "25,107,000,000",
+    "Revenue_abbrev": "25.1 billion"
+  },
+  {
+    "Number": "8",
+    "Company": "L3Harris",
+    "Country": "USA",
+    "Revenue_nominal": "19,419,000,000",
+    "Revenue_abbrev": "19.4 billion"
+  },
+  {
+    "Number": "9",
+    "Company": "Leonardo",
+    "Country": "Italy",
+    "Revenue_nominal": "16,549,000,000",
+    "Revenue_abbrev": "16.5 billion"
+  },
+  {
+    "Number": "10",
+    "Company": "BAE Systems",
+    "Country": "UK",
+    "Revenue_nominal": "14,757,000,000",
+    "Revenue_abbrev": "14.8 billion"
+  },
+  {
+    "Number": "11",
+    "Company": "Rolls-Royce",
+    "Country": "UK",
+    "Revenue_nominal": "14,210,000,000",
+    "Revenue_abbrev": "14.2 billion"
+  },
+  {
+    "Number": "12",
+    "Company": "Honeywell",
+    "Country": "USA",
+    "Revenue_nominal": "3,624,000,000",
+    "Revenue_abbrev": "3.6 billion"
+  },
+  {
+    "Number": "13",
+    "Company": "AVIC (excluding Cirrus)",
+    "Country": "China",
+    "Revenue_nominal": "13,300,000,000",
+    "Revenue_abbrev": "13.3 billion"
+  },
+  {
+    "Number": "14",
+    "Company": "Textron",
+    "Country": "USA",
+    "Revenue_nominal": "9,787,000,000",
+    "Revenue_abbrev": "9.8 billion"
+  },
+  {
+    "Number": "15",
+    "Company": "General Dynamics (Aerospace)",
+    "Country": "USA",
+    "Revenue_nominal": "8,621,000,000",
+    "Revenue_abbrev": "8.6 billion"
+  },
+  {
+    "Number": "16",
+    "Company": "Bombardier",
+    "Country": "Canada",
+    "Revenue_nominal": "8,046,000,000",
+    "Revenue_abbrev": "8.0 billion"
+  },
+  {
+    "Number": "17",
+    "Company": "Hanwha Aerospace",
+    "Country": "South Korea",
+    "Revenue_nominal": "7,168,000,000",
+    "Revenue_abbrev": "7.2 billion"
+  },
+  {
+    "Number": "18",
+    "Company": "TransDigm",
+    "Country": "USA",
+    "Revenue_nominal": "6,585,000,000",
+    "Revenue_abbrev": "6.6 billion"
+  },
+  {
+    "Number": "19",
+    "Company": "Spirit AeroSystems",
+    "Country": "USA",
+    "Revenue_nominal": "6,048,000,000",
+    "Revenue_abbrev": "6.0 billion"
+  },
+  {
+    "Number": "20",
+    "Company": "MTU Aero Engines",
+    "Country": "Germany",
+    "Revenue_nominal": "5,804,000,000",
+    "Revenue_abbrev": "5.8 billion"
+  },
+  {
+    "Number": "21",
+    "Company": "Thales",
+    "Country": "France",
+    "Revenue_nominal": "5,777,000,000",
+    "Revenue_abbrev": "5.8 billion"
+  },
+  {
+    "Number": "22",
+    "Company": "Mitsubishi Aircraft, Defense & Space",
+    "Country": "Japan",
+    "Revenue_nominal": "5,633,000,000",
+    "Revenue_abbrev": "5.6 billion"
+  },
+  {
+    "Number": "23",
+    "Company": "Precision Castparts",
+    "Country": "USA",
+    "Revenue_nominal": "5,580,000,000",
+    "Revenue_abbrev": "5.6 billion"
+  },
+  {
+    "Number": "24",
+    "Company": "Israel Aerospace Industries",
+    "Country": "Israel",
+    "Revenue_nominal": "5,327,000,000",
+    "Revenue_abbrev": "5.3 billion"
+  },
+  {
+    "Number": "25",
+    "Company": "Embraer",
+    "Country": "Brazil",
+    "Revenue_nominal": "5,269,000,000",
+    "Revenue_abbrev": "5.3 billion"
+  },
+  {
+    "Number": "26",
+    "Company": "Dassault Aviation",
+    "Country": "France",
+    "Revenue_nominal": "5,196,000,000",
+    "Revenue_abbrev": "5.2 billion"
+  },
+  {
+    "Number": "27",
+    "Company": "Parker Hannifin",
+    "Country": "USA",
+    "Revenue_nominal": "5,013,000,000",
+    "Revenue_abbrev": "5.0 billion"
+  },
+  {
+    "Number": "28",
+    "Company": "SpaceX",
+    "Country": "USA",
+    "Revenue_nominal": "4,543,000,000",
+    "Revenue_abbrev": "4.5 billion"
+  },
+  {
+    "Number": "29",
+    "Company": "Howmet Aerospace",
+    "Country": "USA",
+    "Revenue_nominal": "4,244,000,000",
+    "Revenue_abbrev": "4.2 billion"
+  },
+  {
+    "Number": "30",
+    "Company": "GKN",
+    "Country": "UK",
+    "Revenue_nominal": "4,167,000,000",
+    "Revenue_abbrev": "4.2 billion"
+  },
+  {
+    "Number": "31",
+    "Company": "Hindustan Aeronautics",
+    "Country": "India",
+    "Revenue_nominal": "4,107,000,000",
+    "Revenue_abbrev": "4.1 billion"
+  },
+  {
+    "Number": "32",
+    "Company": "Eaton Aerospace",
+    "Country": "USA",
+    "Revenue_nominal": "3,413,000,000",
+    "Revenue_abbrev": "3.4 billion"
+  },
+  {
+    "Number": "33",
+    "Company": "CAE",
+    "Country": "Canada",
+    "Revenue_nominal": "3,172,000,000",
+    "Revenue_abbrev": "3.2 billion"
+  },
+  {
+    "Number": "34",
+    "Company": "Saab",
+    "Country": "Sweden",
+    "Revenue_nominal": "3,045,000,000",
+    "Revenue_abbrev": "3.0 billion"
+  },
+  {
+    "Number": "35",
+    "Company": "ST Engineering",
+    "Country": "Singapore",
+    "Revenue_nominal": "2,953,000,000",
+    "Revenue_abbrev": "3.0 billion"
+  },
+  {
+    "Number": "36",
+    "Company": "Korea Aerospace Industries",
+    "Country": "South Korea",
+    "Revenue_nominal": "2,907,000,000",
+    "Revenue_abbrev": "2.9 billion"
+  },
+  {
+    "Number": "37",
+    "Company": "Kawasaki",
+    "Country": "Japan",
+    "Revenue_nominal": "2,906,000,000",
+    "Revenue_abbrev": "2.9 billion"
+  },
+  {
+    "Number": "38",
+    "Company": "Turkish Aerospace",
+    "Country": "Turkey",
+    "Revenue_nominal": "2,674,000,000",
+    "Revenue_abbrev": "2.7 billion"
+  },
+  {
+    "Number": "39",
+    "Company": "ATI (Allegheny Technologies)",
+    "Country": "USA",
+    "Revenue_nominal": "2,475,000,000",
+    "Revenue_abbrev": "2.5 billion"
+  },
+  {
+    "Number": "40",
+    "Company": "Heico",
+    "Country": "USA",
+    "Revenue_nominal": "2,452,000,000",
+    "Revenue_abbrev": "2.5 billion"
+  },
+  {
+    "Number": "41",
+    "Company": "Diehl",
+    "Country": "Germany",
+    "Revenue_nominal": "2,376,000,000",
+    "Revenue_abbrev": "2.4 billion"
+  },
+  {
+    "Number": "42",
+    "Company": "Moog",
+    "Country": "USA",
+    "Revenue_nominal": "2,336,000,000",
+    "Revenue_abbrev": "2.3 billion"
+  },
+  {
+    "Number": "43",
+    "Company": "Ball Aerospace",
+    "Country": "USA",
+    "Revenue_nominal": "1,967,000,000",
+    "Revenue_abbrev": "2.0 billion"
+  },
+  {
+    "Number": "44",
+    "Company": "Ametek",
+    "Country": "USA",
+    "Revenue_nominal": "1,945,000,000",
+    "Revenue_abbrev": "1.9 billion"
+  },
+  {
+    "Number": "45",
+    "Company": "IHI",
+    "Country": "Japan",
+    "Revenue_nominal": "1,924,000,000",
+    "Revenue_abbrev": "1.9 billion"
+  },
+  {
+    "Number": "46",
+    "Company": "Sierra Nevada",
+    "Country": "USA",
+    "Revenue_nominal": "1,900,000,000",
+    "Revenue_abbrev": "1.9 billion"
+  },
+  {
+    "Number": "47",
+    "Company": "Amphenol",
+    "Country": "USA",
+    "Revenue_nominal": "1,883,000,000",
+    "Revenue_abbrev": "1.9 billion"
+  },
+  {
+    "Number": "48",
+    "Company": "Elbit Systems",
+    "Country": "Israel",
+    "Revenue_nominal": "1,873,000,000",
+    "Revenue_abbrev": "1.9 billion"
+  },
+  {
+    "Number": "49",
+    "Company": "Baykar Technologies",
+    "Country": "Turkey",
+    "Revenue_nominal": "1,805,000,000",
+    "Revenue_abbrev": "1.8 billion"
+  },
+  {
+    "Number": "50",
+    "Company": "Panasonic Avionics",
+    "Country": "Japan",
+    "Revenue_nominal": "1,782,000,000",
+    "Revenue_abbrev": "1.8 billion"
+  },
+  {
+    "Number": "51",
+    "Company": "Woodward",
+    "Country": "USA",
+    "Revenue_nominal": "1,519,000,000",
+    "Revenue_abbrev": "1.5 billion"
+  },
+  {
+    "Number": "52",
+    "Company": "Pilatus",
+    "Country": "Switzerland",
+    "Revenue_nominal": "1,410,000,000",
+    "Revenue_abbrev": "1.4 billion"
+  },
+  {
+    "Number": "53",
+    "Company": "Liebherr",
+    "Country": "Germany",
+    "Revenue_nominal": "1,379,000,000",
+    "Revenue_abbrev": "1.4 billion"
+  },
+  {
+    "Number": "54",
+    "Company": "Hexcel",
+    "Country": "USA",
+    "Revenue_nominal": "1,377,000,000",
+    "Revenue_abbrev": "1.4 billion"
+  },
+  {
+    "Number": "55",
+    "Company": "Daher",
+    "Country": "France",
+    "Revenue_nominal": "925,000,000",
+    "Revenue_abbrev": "0.9 billion"
+  },
+  {
+    "Number": "56",
+    "Company": "Kongsberg",
+    "Country": "Norway",
+    "Revenue_nominal": "1,233,000,000",
+    "Revenue_abbrev": "1.2 billion"
+  },
+  {
+    "Number": "57",
+    "Company": "ITP Aero",
+    "Country": "Spain",
+    "Revenue_nominal": "1,101,000,000",
+    "Revenue_abbrev": "1.1 billion"
+  },
+  {
+    "Number": "58",
+    "Company": "Arconic",
+    "Country": "USA",
+    "Revenue_nominal": "959,000,000",
+    "Revenue_abbrev": "1.0 billion"
+  },
+  {
+    "Number": "59",
+    "Company": "AIDC",
+    "Country": "Taiwan",
+    "Revenue_nominal": "1,014,000,000",
+    "Revenue_abbrev": "1.0 billion"
+  },
+  {
+    "Number": "60",
+    "Company": "Triumph",
+    "Country": "USA",
+    "Revenue_nominal": "1,192,000,000",
+    "Revenue_abbrev": "1.2 billion"
+  },
+  {
+    "Number": "61",
+    "Company": "Teledyne Technologies",
+    "Country": "USA",
+    "Revenue_nominal": "1,094,000,000",
+    "Revenue_abbrev": "1.1 billion"
+  },
+  {
+    "Number": "62",
+    "Company": "Syensqo (formerly Solvay Group)",
+    "Country": "Belgium",
+    "Revenue_nominal": "943,000,000",
+    "Revenue_abbrev": "0.9 billion"
+  },
+  {
+    "Number": "63",
+    "Company": "Constellium",
+    "Country": "France/Netherlands",
+    "Revenue_nominal": "766,000,000",
+    "Revenue_abbrev": "0.8 billion"
+  },
+  {
+    "Number": "64",
+    "Company": "Cirrus Aircraft",
+    "Country": "USA",
+    "Revenue_nominal": "894,000,000",
+    "Revenue_abbrev": "0.9 billion"
+  },
+  {
+    "Number": "65",
+    "Company": "Kaiser Aluminum",
+    "Country": "USA",
+    "Revenue_nominal": "676,000,000",
+    "Revenue_abbrev": "0.7 billion"
+  },
+  {
+    "Number": "66",
+    "Company": "Aernnova",
+    "Country": "Spain",
+    "Revenue_nominal": "497,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "67",
+    "Company": "Cobham",
+    "Country": "UK",
+    "Revenue_nominal": "271,000,000",
+    "Revenue_abbrev": "0.3 billion"
+  },
+  {
+    "Number": "68",
+    "Company": "LISI",
+    "Country": "France",
+    "Revenue_nominal": "875,000,000",
+    "Revenue_abbrev": "0.9 billion"
+  },
+  {
+    "Number": "69",
+    "Company": "Curtiss-Wright",
+    "Country": "USA",
+    "Revenue_nominal": "756,000,000",
+    "Revenue_abbrev": "0.8 billion"
+  },
+  {
+    "Number": "70",
+    "Company": "Hutchinson",
+    "Country": "France",
+    "Revenue_nominal": "763,000,000",
+    "Revenue_abbrev": "0.8 billion"
+  },
+  {
+    "Number": "71",
+    "Company": "Garmin",
+    "Country": "USA",
+    "Revenue_nominal": "679,000,000",
+    "Revenue_abbrev": "0.7 billion"
+  },
+  {
+    "Number": "72",
+    "Company": "Pursuit Aerospace",
+    "Country": "USA",
+    "Revenue_nominal": "800,000,000",
+    "Revenue_abbrev": "0.8 billion"
+  },
+  {
+    "Number": "73",
+    "Company": "FACC",
+    "Country": "Austria",
+    "Revenue_nominal": "763,000,000",
+    "Revenue_abbrev": "0.8 billion"
+  },
+  {
+    "Number": "74",
+    "Company": "Crane Aerospace and Electronics",
+    "Country": "USA",
+    "Revenue_nominal": "667,000,000",
+    "Revenue_abbrev": "0.7 billion"
+  },
+  {
+    "Number": "75",
+    "Company": "Maxar Technologies Space Infrastructure",
+    "Country": "USA",
+    "Revenue_nominal": "740,000,000",
+    "Revenue_abbrev": "0.7 billion"
+  },
+  {
+    "Number": "76",
+    "Company": "Senior",
+    "Country": "UK",
+    "Revenue_nominal": "768,000,000",
+    "Revenue_abbrev": "0.8 billion"
+  },
+  {
+    "Number": "77",
+    "Company": "Montana Aerospace",
+    "Country": "Switzerland",
+    "Revenue_nominal": "669,000,000",
+    "Revenue_abbrev": "0.7 billion"
+  },
+  {
+    "Number": "78",
+    "Company": "General Atomics",
+    "Country": "USA",
+    "Revenue_nominal": "666,000,000",
+    "Revenue_abbrev": "0.7 billion"
+  },
+  {
+    "Number": "79",
+    "Company": "Subaru",
+    "Country": "Japan",
+    "Revenue_nominal": "260,000,000",
+    "Revenue_abbrev": "0.3 billion"
+  },
+  {
+    "Number": "80",
+    "Company": "Chromalloy",
+    "Country": "USA",
+    "Revenue_nominal": "631,000,000",
+    "Revenue_abbrev": "0.6 billion"
+  },
+  {
+    "Number": "81",
+    "Company": "AeroVironment",
+    "Country": "USA",
+    "Revenue_nominal": "541,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "82",
+    "Company": "Ducommun",
+    "Country": "USA",
+    "Revenue_nominal": "670,000,000",
+    "Revenue_abbrev": "0.7 billion"
+  },
+  {
+    "Number": "83",
+    "Company": "RUAG",
+    "Country": "Switzerland",
+    "Revenue_nominal": "659,000,000",
+    "Revenue_abbrev": "0.7 billion"
+  },
+  {
+    "Number": "84",
+    "Company": "SKF",
+    "Country": "Sweden",
+    "Revenue_nominal": "529,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "85",
+    "Company": "Nordam",
+    "Country": "USA",
+    "Revenue_nominal": "535,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "86",
+    "Company": "Sonaca",
+    "Country": "Belgium",
+    "Revenue_nominal": "627,000,000",
+    "Revenue_abbrev": "0.6 billion"
+  },
+  {
+    "Number": "87",
+    "Company": "Lat\u00e9co\u00e8re",
+    "Country": "France",
+    "Revenue_nominal": "492,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "88",
+    "Company": "Magellan Aerospace",
+    "Country": "Canada",
+    "Revenue_nominal": "588,000,000",
+    "Revenue_abbrev": "0.6 billion"
+  },
+  {
+    "Number": "89",
+    "Company": "Barnes Aerospace",
+    "Country": "USA",
+    "Revenue_nominal": "537,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "90",
+    "Company": "Astronics",
+    "Country": "USA",
+    "Revenue_nominal": "461,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "91",
+    "Company": "Kaman",
+    "Country": "USA",
+    "Revenue_nominal": "515,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "92",
+    "Company": "Recaro Aircraft Seating",
+    "Country": "Germany",
+    "Revenue_nominal": "447,000,000",
+    "Revenue_abbrev": "0.4 billion"
+  },
+  {
+    "Number": "93",
+    "Company": "Consolidated Precision Products",
+    "Country": "USA",
+    "Revenue_nominal": "480,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "94",
+    "Company": "Ontic",
+    "Country": "UK",
+    "Revenue_nominal": "610,000,000",
+    "Revenue_abbrev": "0.6 billion"
+  },
+  {
+    "Number": "95",
+    "Company": "Mercury Systems",
+    "Country": "USA",
+    "Revenue_nominal": "507,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "96",
+    "Company": "PPG Aerospace",
+    "Country": "USA",
+    "Revenue_nominal": "466,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "97",
+    "Company": "Albany Engineered Composites",
+    "Country": "USA",
+    "Revenue_nominal": "541,000,000",
+    "Revenue_abbrev": "0.5 billion"
+  },
+  {
+    "Number": "98",
+    "Company": "Aciturri",
+    "Country": "Spain",
+    "Revenue_nominal": "398,000,000",
+    "Revenue_abbrev": "0.4 billion"
+  },
+  {
+    "Number": "99",
+    "Company": "QinetiQ",
+    "Country": "UK",
+    "Revenue_nominal": "390,000,000",
+    "Revenue_abbrev": "0.4 billion"
+  },
+  {
+    "Number": "100",
+    "Company": "H\u00e9roux-Devtek",
+    "Country": "Canada",
+    "Revenue_nominal": "418,000,000",
+    "Revenue_abbrev": "0.4 billion"
+  }
+]

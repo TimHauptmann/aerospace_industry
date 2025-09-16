@@ -1,0 +1,116 @@
+/* 1. Navbar: size, boundaries, button alignment, colors */
+.navbar {
+  width: 100%;
+  background: #ccc;
+  margin: 0;
+  padding: 1em 0;
+  border-bottom: 3px solid #C0C0C0;
+  box-sizing: border-box;
+}
+.navbar ul {
+  display: flex;
+  justify-content: center; /* Center buttons */
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.navbar li {
+  margin: 0 1.5em;
+}
+.navbar a {
+  color: #fff;
+  background: #444;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.navbar a:hover {
+  background: #666;
+}
+
+.navbar-brand {
+  color: #023858;
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.logo {
+  height: 40px; /* adjust size */
+  margin-right: 10px;
+}
+
+.site-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #023858; /* dark blue */
+}
+
+/* 2. Fonts and background color */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 16px;
+  background: #f9f9f9;
+  color: #222;
+  margin: 0;
+}
+
+/* 3. Sections and alignments */
+header, section, footer {
+  max-width: none;
+  margin: 1.5em;
+  padding: 1.5em;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.content {
+  display: grid;
+  gap: 1em;
+  max-width: max-content;
+  margin: 2em auto;
+  grid-template-columns: 1fr 1fr;
+}
+
+#tables {
+  margin-top: 2em;
+}
+
+#data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+#data-table th, #data-table td {
+  border: 1px solid #ccc;
+  padding: 0.5em;
+  text-align: left;
+}
+#data-table th {
+  background: #f4f4f4;
+}
+
+#articles {
+  margin-top: 2em;
+}
+
+#articles-container img {
+  max-width: 100%;   /* never bigger than the container */
+  height: auto;      /* keep proportions */
+  display: block;    /* makes it easier to center */
+  margin: 1em auto;  /* optional: centers & adds spacing */
+}

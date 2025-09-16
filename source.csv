@@ -1,0 +1,101 @@
+Number,Company,Country,Revenue_nominal,Revenue_abbrev
+1,Boeing,USA,"77,794,000,000",77.8 billion
+2,Airbus,France/Netherlands,"70,829,000,000",70.8 billion
+3,RTX,USA,"68,920,000,000",68.9 billion
+4,Lockheed Martin,USA,"67,571,000,000",67.6 billion
+5,Northrop Grumman,USA,"39,290,000,000",39.3 billion
+6,GE Aerospace,USA,"31,770,000,000",31.8 billion
+7,Safran,France,"25,107,000,000",25.1 billion
+8,L3Harris,USA,"19,419,000,000",19.4 billion
+9,Leonardo,Italy,"16,549,000,000",16.5 billion
+10,BAE Systems,UK,"14,757,000,000",14.8 billion
+11,Rolls-Royce,UK,"14,210,000,000",14.2 billion
+12,Honeywell,USA,"3,624,000,000",3.6 billion
+13,"AVIC (excluding Cirrus)",China,"13,300,000,000",13.3 billion
+14,Textron,USA,"9,787,000,000",9.8 billion
+15,"General Dynamics (Aerospace)",USA,"8,621,000,000",8.6 billion
+16,Bombardier,Canada,"8,046,000,000",8.0 billion
+17,Hanwha Aerospace,South Korea,"7,168,000,000",7.2 billion
+18,TransDigm,USA,"6,585,000,000",6.6 billion
+19,Spirit AeroSystems,USA,"6,048,000,000",6.0 billion
+20,MTU Aero Engines,Germany,"5,804,000,000",5.8 billion
+21,Thales,France,"5,777,000,000",5.8 billion
+22,"Mitsubishi Aircraft, Defense & Space",Japan,"5,633,000,000",5.6 billion
+23,Precision Castparts,USA,"5,580,000,000",5.6 billion
+24,Israel Aerospace Industries,Israel,"5,327,000,000",5.3 billion
+25,Embraer,Brazil,"5,269,000,000",5.3 billion
+26,Dassault Aviation,France,"5,196,000,000",5.2 billion
+27,Parker Hannifin,USA,"5,013,000,000",5.0 billion
+28,SpaceX,USA,"4,543,000,000",4.5 billion
+29,Howmet Aerospace,USA,"4,244,000,000",4.2 billion
+30,GKN,UK,"4,167,000,000",4.2 billion
+31,Hindustan Aeronautics,India,"4,107,000,000",4.1 billion
+32,Eaton Aerospace,USA,"3,413,000,000",3.4 billion
+33,CAE,Canada,"3,172,000,000",3.2 billion
+34,Saab,Sweden,"3,045,000,000",3.0 billion
+35,ST Engineering,Singapore,"2,953,000,000",3.0 billion
+36,Korea Aerospace Industries,South Korea,"2,907,000,000",2.9 billion
+37,Kawasaki,Japan,"2,906,000,000",2.9 billion
+38,Turkish Aerospace,Turkey,"2,674,000,000",2.7 billion
+39,"ATI (Allegheny Technologies)",USA,"2,475,000,000",2.5 billion
+40,Heico,USA,"2,452,000,000",2.5 billion
+41,Diehl,Germany,"2,376,000,000",2.4 billion
+42,Moog,USA,"2,336,000,000",2.3 billion
+43,Ball Aerospace,USA,"1,967,000,000",2.0 billion
+44,Ametek,USA,"1,945,000,000",1.9 billion
+45,IHI,Japan,"1,924,000,000",1.9 billion
+46,Sierra Nevada,USA,"1,900,000,000",1.9 billion
+47,Amphenol,USA,"1,883,000,000",1.9 billion
+48,Elbit Systems,Israel,"1,873,000,000",1.9 billion
+49,Baykar Technologies,Turkey,"1,805,000,000",1.8 billion
+50,Panasonic Avionics,Japan,"1,782,000,000",1.8 billion
+51,Woodward,USA,"1,519,000,000",1.5 billion
+52,Pilatus,Switzerland,"1,410,000,000",1.4 billion
+53,Liebherr,Germany,"1,379,000,000",1.4 billion
+54,Hexcel,USA,"1,377,000,000",1.4 billion
+55,Daher,France,"925,000,000",0.9 billion
+56,Kongsberg,Norway,"1,233,000,000",1.2 billion
+57,ITP Aero,Spain,"1,101,000,000",1.1 billion
+58,Arconic,USA,"959,000,000",1.0 billion
+59,AIDC,Taiwan,"1,014,000,000",1.0 billion
+60,Triumph,USA,"1,192,000,000",1.2 billion
+61,Teledyne Technologies,USA,"1,094,000,000",1.1 billion
+62,"Syensqo (formerly Solvay Group)",Belgium,"943,000,000",0.9 billion
+63,Constellium,France/Netherlands,"766,000,000",0.8 billion
+64,Cirrus Aircraft,USA,"894,000,000",0.9 billion
+65,Kaiser Aluminum,USA,"676,000,000",0.7 billion
+66,Aernnova,Spain,"497,000,000",0.5 billion
+67,Cobham,UK,"271,000,000",0.3 billion
+68,LISI,France,"875,000,000",0.9 billion
+69,Curtiss-Wright,USA,"756,000,000",0.8 billion
+70,Hutchinson,France,"763,000,000",0.8 billion
+71,Garmin,USA,"679,000,000",0.7 billion
+72,Pursuit Aerospace,USA,"800,000,000",0.8 billion
+73,FACC,Austria,"763,000,000",0.8 billion
+74,"Crane Aerospace and Electronics",USA,"667,000,000",0.7 billion
+75,"Maxar Technologies Space Infrastructure",USA,"740,000,000",0.7 billion
+76,Senior,UK,"768,000,000",0.8 billion
+77,Montana Aerospace,Switzerland,"669,000,000",0.7 billion
+78,General Atomics,USA,"666,000,000",0.7 billion
+79,Subaru,Japan,"260,000,000",0.3 billion
+80,Chromalloy,USA,"631,000,000",0.6 billion
+81,AeroVironment,USA,"541,000,000",0.5 billion
+82,Ducommun,USA,"670,000,000",0.7 billion
+83,RUAG,Switzerland,"659,000,000",0.7 billion
+84,SKF,Sweden,"529,000,000",0.5 billion
+85,Nordam,USA,"535,000,000",0.5 billion
+86,Sonaca,Belgium,"627,000,000",0.6 billion
+87,Latécoère,France,"492,000,000",0.5 billion
+88,Magellan Aerospace,Canada,"588,000,000",0.6 billion
+89,Barnes Aerospace,USA,"537,000,000",0.5 billion
+90,Astronics,USA,"461,000,000",0.5 billion
+91,Kaman,USA,"515,000,000",0.5 billion
+92,Recaro Aircraft Seating,Germany,"447,000,000",0.4 billion
+93,Consolidated Precision Products,USA,"480,000,000",0.5 billion
+94,Ontic,UK,"610,000,000",0.6 billion
+95,Mercury Systems,USA,"507,000,000",0.5 billion
+96,PPG Aerospace,USA,"466,000,000",0.5 billion
+97,Albany Engineered Composites,USA,"541,000,000",0.5 billion
+98,Aciturri,Spain,"398,000,000",0.4 billion
+99,QinetiQ,UK,"390,000,000",0.4 billion
+100,Héroux-Devtek,Canada,"418,000,000",0.4 billion
